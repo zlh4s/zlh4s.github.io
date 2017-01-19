@@ -16,4 +16,4 @@
 - 离线下载功能（数据缓存）<br>
 
 ## License <br>
-There is no fucking license.<br>
+There is no license.<br>
