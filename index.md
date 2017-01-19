@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Zhihu <br>
+该项目是一个高仿的知乎日报客户端，融合了目前较为流行的设计元素，项目的UI设计采用 Google Material Design 设计风格，图片素材均来自App知乎日报，架构采用MVP的设计模式，网络请求采用的是时下流行的RxJava + Retrofit组合。<br>
 
-You can use the [editor on GitHub](https://github.com/zlh4s/zlh4s.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Api 相关 <br>
+#### [知乎日报api分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
+## 截图 <br>
+ ![](https://github.com/yiyibb/Zhihu/blob/master/app/1.png)
+ ![](https://github.com/yiyibb/Zhihu/blob/master/app/2.png)
+ ![](https://github.com/yiyibb/Zhihu/blob/master/app/3.png)
+ ![](https://github.com/yiyibb/Zhihu/blob/master/app/4.png)
+ ![](https://github.com/yiyibb/Zhihu/blob/master/app/5.png)
+ ![](https://github.com/yiyibb/Zhihu/blob/master/app/6.png)
+## 计划 <br>
+- 评论界面 <br>
+- 日夜模式切换 <br>
+- 离线下载功能（数据缓存）<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zlh4s/zlh4s.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License <br>
+There is no fucking license.<br>
