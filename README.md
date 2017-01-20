@@ -4,9 +4,9 @@
 ## Api 相关 <br>
 #### [知乎日报api分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
 ## 截图 <br>
- ![](https://github.com/yiyibb/Zhihu/blob/master/app/1.png)
- ![](https://github.com/yiyibb/Zhihu/blob/master/app/2.png)
- ![](https://github.com/yiyibb/Zhihu/blob/master/app/3.png)
+ ![](http://i.imgur.com/o0XCnBa.jpg)
+ ![](http://i.imgur.com/esvCNcm.jpg)
+ ![](http://i.imgur.com/HyoiPms.jpg)
  ![](https://github.com/yiyibb/Zhihu/blob/master/app/4.png)
  ![](https://github.com/yiyibb/Zhihu/blob/master/app/5.png)
  ![](https://github.com/yiyibb/Zhihu/blob/master/app/6.png)
