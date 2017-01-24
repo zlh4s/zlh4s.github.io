@@ -7,9 +7,8 @@
 #### [分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
 ## 截图 <br>
 
- ![](https://github.com/yiyibb/Zhihu/blob/master/app/4.png)
- ![](https://github.com/yiyibb/Zhihu/blob/master/app/5.png)
- ![](https://github.com/yiyibb/Zhihu/blob/master/app/6.png)
+ [https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09302.jpg](https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09302.jpg "图1")
+ [https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09303.jpg](https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09303.jpg "图2")
 
 ## 计划 <br>
 - 评论界面 <br>
