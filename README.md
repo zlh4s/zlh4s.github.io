@@ -4,11 +4,11 @@
 ###图片素材均来自书弘小学图片<br>
 
 ## 北京小学 相关 <br>
-#### [分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
+### [API分析](http://i.imgur.com/LjIuYeM.jpg)
 ## 截图 <br>
 
- [https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09302.jpg](https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09302.jpg "图1")
- [https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09303.jpg](https://github.com/zlh4s/zlh4s.github.io/blob/OFFICE-YHG/pics_web/DSC09303.jpg "图2")
+###[图1](http://i.imgur.com/fapRQGG.jpg)
+###[图2](http://i.imgur.com/HH5Dh00.jpg)
 
 ## 计划 <br>
 - 评论界面 <br>
