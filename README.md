@@ -9,6 +9,7 @@
 
 ###[图1](http://i.imgur.com/fapRQGG.jpg)
 ###[图2](http://i.imgur.com/HH5Dh00.jpg)
+###[图3](https://github.com/zlh4s/zlh4s.github.io/blob/master/pics_web/DSC09301.jpg)
 
 ## 计划 <br>
 - 评论界面 <br>
